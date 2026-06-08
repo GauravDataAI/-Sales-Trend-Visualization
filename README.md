@@ -52,7 +52,7 @@ Sales Data → Data Cleaning → Data Analysis → Trend Analysis → Visualizat
 
 ## 🎓 Project Type
 
-**Data Analytics Internship Project**
+**Data Analytics Internship Project (Project 2)**
 
 ---
 
