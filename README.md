@@ -13,7 +13,6 @@ The project focuses on analyzing sales data to identify monthly sales trends, re
 * NumPy
 * Matplotlib
 * Seaborn
-* Plotly
 * Jupyter Notebook
 * GitHub
 
