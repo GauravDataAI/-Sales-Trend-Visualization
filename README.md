@@ -1,8 +1,8 @@
 # 📊 Sales Trend Visualization
 
-Sales Trend Visualization is a Data Analytics project developed as part of my Data Analytics Internship at CodeTech IT Solutions.
+Sales Trend Visualization is a Python-based Data Analytics project developed as part of my Data Analytics Internship at CodeTech IT Solutions.
 
-This project focuses on analyzing sales data to understand monthly sales trends, regional performance, category contribution, and top-selling products. The goal is to convert raw sales data into meaningful business insights through data analysis and visualization.
+The project focuses on analyzing sales data to identify monthly sales trends, regional performance, category contribution, and top-selling products. It helps transform raw sales data into meaningful business insights through data analysis and visualization, supporting data-driven decision-making.
 
 ---
 
@@ -15,6 +15,7 @@ This project focuses on analyzing sales data to understand monthly sales trends,
 * Seaborn
 * Plotly
 * Jupyter Notebook
+* GitHub
 
 ---
 
@@ -26,14 +27,26 @@ This project focuses on analyzing sales data to understand monthly sales trends,
 * Region-wise Sales Analysis
 * Category-wise Sales Analysis
 * Top Products Analysis
-* Business Insights and Recommendations
-* Data Visualization
+* Business Insights Generation
+* Data Visualization and Reporting
 
 ---
 
 ## 📈 Project Workflow
 
-Sales Data → Data Cleaning → Data Analysis → Visualization → Business Insights → Recommendations
+Sales Data → Data Cleaning → Data Analysis → Trend Analysis → Visualization → Business Insights → Recommendations
+
+---
+
+## 🔗 View Project
+
+### 📘 Jupyter Notebook
+
+[View Notebook](https://github.com/GauravDataAI/-Sales-Trend-Visualization/blob/main/Sales_Trend_Visualization/Sales_Trend_Visualization.ipynb)
+
+### 📂 GitHub Repository
+
+[View Repository](https://github.com/GauravDataAI/-Sales-Trend-Visualization)
 
 ---
 
@@ -49,9 +62,11 @@ Sales Data → Data Cleaning → Data Analysis → Visualization → Business In
 
 **Course:** B.Tech (Lateral Entry) – CSE (Data Science)
 
-**University:** JUET, Guna
+**University:** Jaypee University of Engineering and Technology (JUET), Guna
 
 **Internship Organization:** CodeTech IT Solutions
+
+**Internship Domain:** Data Analytics
 
 **Project Name:** Sales Trend Visualization
 
@@ -61,4 +76,4 @@ Sales Data → Data Cleaning → Data Analysis → Visualization → Business In
 
 ## ⭐ About This Project
 
-This project helped me improve my skills in data cleaning, data analysis, visualization, and business insight generation using Python. The analysis provides useful information about sales performance and supports data-driven decision-making.
+This project represents my second Data Analytics Internship project and helped me gain practical experience in data cleaning, exploratory data analysis, data visualization, sales analytics, and business insight generation using Python. The project demonstrates how sales data can be transformed into meaningful insights that support better business decisions.
