@@ -56,9 +56,13 @@ Sales Data → Data Cleaning → Data Analysis → Trend Analysis → Visualizat
 
 ---
 
+
+
 ## 📌 Project Information
 
 **Prepared By:** Gaurav Kevat
+
+**Intern ID:** CITS34-46
 
 **Course:** B.Tech (Lateral Entry) – CSE (Data Science)
 
